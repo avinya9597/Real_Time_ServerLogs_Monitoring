@@ -18,6 +18,11 @@ _**Data Collected from Kaggle:** https://www.kaggle.com/code/eliasdabbas/log-fil
 
 The objective of this project is to develop a real-time log monitoring system that can ingest streaming log data, perform real-time processing and anomaly detection, and emit alerts for detected anomalies. The system aims to provide timely insights into system sanity that is health and performance by monitoring and analyzing log data in real time.
 
+## Tech Stack
+
+The real-time log monitoring system leverages a combination of technologies, including Apache Kafka, Apache Storm, and Hadoop MapReduce. 
+Kafka-python is used for interacting with Kafka, Storm for real-time processing and anomaly detection, and Hadoop MapReduce for batch processing and analysis. 
+
 ## Features
 
 - Ingests streaming log data from Kafka topics.
