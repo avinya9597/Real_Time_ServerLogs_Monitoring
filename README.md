@@ -20,7 +20,7 @@ The objective of this project is to develop a real-time log monitoring system th
 
 ## Tech Stack
 
-The real-time log monitoring system leverages a combination of technologies, including Apache Kafka, Apache Storm, and Hadoop MapReduce. 
+The real-time log monitoring system leverages a combination of technologies, including Apache Kafka, Apache Storm, and Hadoop MapReduce logic. 
 Kafka-python is used for interacting with Kafka, Storm for real-time processing and anomaly detection, and Hadoop MapReduce for batch processing and analysis. 
 
 ## Features
