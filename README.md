@@ -4,7 +4,7 @@
 
 ## Overview
 
-In modern IT environments, monitoring and analyzing log data is crucial for maintaining system health, detecting issues, and ensuring optimal performance. However, traditional log monitoring solutions cannot often process log data in real time, leading to delayed detection of anomalies and potential issues.
+In IT environments, monitoring and analyzing log data is crucial for maintaining system health, detecting issues, and ensuring optimal performance. However, traditional log monitoring solutions cannot often process log data in real time, leading to delayed detection of anomalies and potential issues.
 
 Ingest streaming log data: The system should be capable of ingesting streaming log data from various sources, such as web servers, applications, and network devices.
 
