@@ -8,7 +8,7 @@ In modern IT environments, monitoring and analyzing log data is crucial for main
 
 Ingest streaming log data: The system should be capable of ingesting streaming log data from various sources, such as web servers, applications, and network devices.
 
-Perform real-time processing: Real-time processing of log data is essential for timely detection of anomalies and unusual patterns. The system should be able to process incoming log data in real-time, apply relevant transformations, and perform calculations to identify anomalies.
+Perform real-time processing: Real-time processing of log data is essential for timely detection of anomalies and unusual patterns. The system should be able to process incoming log data in real time, apply relevant transformations, and perform calculations to identify anomalies.
 
 Detect anomalies: Anomaly detection algorithms to identify deviations from normal behavior in the log data which includes detecting unusual request rates, response times, error rates, or resource utilization patterns depending on the input data gathered.
 
@@ -16,8 +16,8 @@ Emit alerts: Upon detecting anomalies, the system should emit alerts or notifica
 
 By addressing these requirements, the real-time log monitoring system aims to improve system reliability, optimize performance, and enhance overall operational efficiency.
 
-_**Data Collected from Kaggle:** https://www.kaggle.com/code/eliasdabbas/log-file-analysis-with-python/input?select=log_file.log 
-_
+_**Data Collected from Kaggle:** https://www.kaggle.com/code/eliasdabbas/log-file-analysis-with-python/input?select=log_file.log_ 
+
 ## Objective
 
 The objective of this project is to develop a real-time log monitoring system that can ingest streaming log data, perform real-time processing and anomaly detection, and emit alerts for detected anomalies. The system aims to provide timely insights into system sanity that is health and performance by monitoring and analyzing log data in real time.
